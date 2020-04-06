@@ -1,0 +1,16 @@
+<resources>
+    <string name="about_title_text">关于</string>
+    <string name="about_version_name">版本</string>
+    <string name="about_copyright_cn">洛宝信息科技版本所有</string>
+    <string name="copyright_title_text">版权声明</string>
+    <string name="about_copyright_en"> © 2017-2020 robabylive-in.com. All rights reserved.</string>
+    <string name="copyright_info_en">
+        \n
+     一、权利归属\n
+
+     二、责任限制\n
+
+    三、知识产权保护\n
+
+</string>
+</resources>

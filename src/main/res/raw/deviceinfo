@@ -1,0 +1,16 @@
+{
+    "productKey": "a103L7Wx11e",
+    "deviceName": "android",
+    "productSecret": "",
+    "deviceSecret": "XEYejtK76xvEJVFZ5Db9uDxf3mQLDaaM",
+    "subDevice": [
+      {
+          "productKey": "",
+          "deviceName": ""
+      },
+      {
+        "productKey": "",
+        "deviceName": ""
+    }
+  ]
+}
